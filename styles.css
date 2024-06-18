@@ -1,0 +1,20 @@
+.Header {
+    text-align: center;
+    color: brown;
+}
+.div1{
+    border: solid black;
+    width: 600x;
+   margin-left: 530px;
+   margin-right: 700px;
+}
+img{
+    height: 500pxx;
+    width: 600px;
+}
+body{
+    background-color: bisque;
+}
+p{
+    text-align: center;
+}
